@@ -283,7 +283,7 @@ export default function ConstructionPortfolio() {
                         </h2>
                         <div className="w-24 h-1 bg-orange-500 mx-auto mb-8"></div>
                         <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                            With over 15 years of experience in the construction
+                            With over 3 years of experience in the construction
                             industry, we have built our reputation on three core
                             values:
                             <strong className="text-orange-600">
@@ -298,7 +298,7 @@ export default function ConstructionPortfolio() {
                             className="text-lg text-gray-700 mb-8 leading-relaxed"
                             dir="rtl"
                         >
-                            مع أكثر من 15 عامًا من الخبرة في صناعة البناء، بنينا
+                            مع أكثر من 3 عامًا من الخبرة في صناعة البناء، بنينا
                             سمعتنا على ثلاث قيم أساسية:
                             <strong className="text-orange-600">
                                 {" "}
