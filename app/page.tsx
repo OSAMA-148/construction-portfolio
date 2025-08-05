@@ -244,7 +244,7 @@ export default function ConstructionPortfolio() {
                                     className="bg-orange-500 text-white px-4 py-2 text-sm"
                                 >
                                     <Award className="w-4 h-4 mr-2" />
-                                    15+ Years Experience | 15+ سنة خبرة
+                                    3+ Years Experience | 3+ سنة خبرة
                                 </Badge>
                                 <Badge
                                     variant="secondary"
